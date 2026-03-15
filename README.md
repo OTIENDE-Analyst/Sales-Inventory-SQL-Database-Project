@@ -29,6 +29,10 @@ This project incorporates several SQL concepts including:
 1. Aggregate function like COUNT(), SUM(), MAX(), MIN(), AVG()
 2. SQL Operators;
 3. SQL Joins
+4. Subqueries 
+5. SQL Window functions
+6. Common Table Expresions in SQL (CTEs)
+7. Advanced Analytical and Window functions analysis.
 
 # Tools used
 1. PostgreSQL
